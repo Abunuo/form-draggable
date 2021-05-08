@@ -1,0 +1,41 @@
+{
+  "name": "drag-form",
+  "version": "1.0.0",
+  "description": "可视化表单拖拽组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abunuo/drag-form.git"
+  },
+  "keywords": [
+    "可视化",
+    "拖拽",
+    "表单"
+  ],
+  "author": "Monologue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abunuo/drag-form/issues"
+  },
+  "homepage": "https://github.com/Abunuo/drag-form#readme",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "element-plus": "^1.0.2-beta.41",
+    "lodash": "^4.17.21",
+    "sass": "^1.32.12",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "typescript": "^4.1.3",
+    "vite": "^2.2.3",
+    "vue-tsc": "^0.0.24"
+  }
+}
