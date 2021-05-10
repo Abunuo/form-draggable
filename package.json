@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abunuo/drag-form.git"
+    "url": "git+git@github.com:Abunuo/form-draggable.git"
   },
   "keywords": [
     "可视化",
